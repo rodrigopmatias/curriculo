@@ -1,9 +1,6 @@
 # Currículo
-Rodrigo Pinheiro Matias
 
-Nascido dia 20/03/1983 em Brejo Santo Ceará
-
-Moro atualmente em Palmas no estado do Tocantins, onde sou casado e tenho dois filhos
+Meu nome é **Rodrigo Pinheiro Matias**, nascido dia **20/03/1983** em Brejo Santo Ceará. Moro atualmente em Palmas no estado do Tocantins, onde sou casado e tenho dois filhos.
 
 # Experiência de Trabalho
 
