@@ -11,7 +11,7 @@ Moro atualmente em Palmas no estado do Tocantins, onde sou casado e tenho dois f
 
 Atualmente trabalho no Ministério Público do Estado do Tocantins, onde desempenho o trabalho de coordenar uma equipe de 12 profissionais tando na área de desenolvimento de software quando na administração de banco de dados.
 
-Esta equipe é responsável pelo desenvolvimento e manutenção do sistema Athenas, que é implementado em Python (backend) e  JavaScript (Frontend), participei da criação deste sistema em 2009 desde a formação da primeira equipe até os dias de hoje.
+Esta equipe é responsável pelo desenvolvimento e manutenção do sistema Athenas, que é implementado em Python (backend) e  JavaScript (Frontend), participei da criação deste sistema em 2009 desde a formação da primeira equipe até os dias de hoje. Além de coordenar ainda trabalho na codificação do sistema.
 
 ## Energias do Brasil (2008 até 2009)
 
@@ -26,6 +26,8 @@ Trabalhei em sistemas escritos em PHP e Java, tanto iniciando o desenvolvimento 
 ## Formação profissional
 
 Sou Bracharel em Ciência da Computação pela Universidade Federal do Tocantins, completei o meu curso ano de 2006, meu trabalho de conclusão de curso foi implementado em Java utilizando tecnologia RMI para criação de clusters.
+
+Constantemente procuro estudar por assuntos de interesse da minha área como por exemplo DevOps, SCRUM, Movimento Agile, tenho me interessado por tecnologias de frontend com VueJS, Angular e React.
 
 # Interesse profissional
 
