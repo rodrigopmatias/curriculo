@@ -31,4 +31,4 @@ Constantemente procuro estudar por assuntos de interesse da minha área como por
 
 # Interesse profissional
 
-Atualmente tenho estudado muito sobre a cultura DevOps inclusive tenho trabalhado para implantar esta cultura onde trabalho atualmente. Tenho interesse em adquirir fluencia em Ingles, além disto tenho muito interesse de esta mais tempo em casa com minha familia por isto tenho procurado trabalho remoto
+Atualmente tenho estudado muito sobre a cultura DevOps inclusive tenho trabalhado para implantar esta cultura onde trabalho atualmente. Tenho interesse em adquirir fluencia em Ingles, além disto tenho muito interesse de esta mais tempo em casa com minha familia por isto tenho procurado trabalho remoto.
